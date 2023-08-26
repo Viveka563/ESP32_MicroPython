@@ -1,5 +1,5 @@
 # MicroPython Script for ESP32
-# Author: Himanshu Tripathi
+# Author: Viveka Kushwaha
 
 # ESP32 Wi-Fi Station Mode
 
